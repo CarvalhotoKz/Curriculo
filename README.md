@@ -1,12 +1,10 @@
 # Curriculo
 
-João Victor Carvalho da Silva
-(09/05/2004)
-Londrina-PR
+João Victor Carvalho da Silva-(09/05/2004)/Londrina-PR
 
 ### Contato
 
-Celular: +55(43)99910-2646   Instagram: carvalho_to_kz
+Celular: +55(43)99910-2646/Instagram: carvalho_to_kz
 
 Email: silva.joaovictorcarvalho@gmail.com
 
@@ -30,6 +28,4 @@ Projeto NPD (Unicesumar)
 
 ### Skills
 
-Ingles Basico              Proatividade
-Persuasivo                 Liderança
-Aprendizado Continuo       Inteligencia Emocional
+Ingles Basico - Proatividade - Persuasivo - Liderança - Aprendizado Continuo - Inteligencia Emocional
