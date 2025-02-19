@@ -14,17 +14,17 @@ Busco uma troca de conhecimento mútuo, onde eu possa agregar valor a empresa ma
 
 ### Formação
 
-Ensino Superio Completo - Colegio Estadual Barão do Rio Branco(2022)
+* Ensino Médio Completo - Colegio Estadual Barão do Rio Branco(2022)
 
-Curso Pacote Office 2021 - On Byte Londrina(2023)
+* Curso Pacote Office 2021 - On Byte Londrina(2023)
 
-Cursando Analise e Desenvolvimento de Sistemas - Unicesumar(13/30meses)
+* Cursando Analise e Desenvolvimento de Sistemas - Unicesumar(13/30meses)
 
 ### Experiencias
 
-Auxilar de Mecanico (Mecanica Alemanha)
+* Auxilar de Mecanico (Mecanica Alemanha)
 
-Projeto NPD (Unicesumar)
+* Projeto NPD (Unicesumar)
 
 ### Skills
 
